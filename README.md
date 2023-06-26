@@ -1,4 +1,27 @@
-### Hi there 👋
+## Hi there 👋
+Associate Degree/TSU in Cross-platform Software Development.
+
+Currently studying Software Development and Management Engineering at the Technlogical University of Chihuahua BIS.
+
+MITACS GRI 2023 at the University of Sherbrooke, QC.
+
+#### => Backend Experience with:
+  Node.js - Express.js - Python (flask)
+  
+#### => Database Experience with:
+  + SQL:
+    MySQL - MariaDB - SQLServer - PostgreSQL
+  + NoSQL:
+    MongoDB - ElasticSearch
+
+#### => Frontend experience with:
+ HTML -  CSS -  JavaScript -  React
+ 
+#### => Languages:
+  Spanish - English - French
+  
+#### => Extras:
+  Musician - Love for cooking - Anime watcher - Manga/Novel reader - Love for solving 2D and 3D puzzles
 
 <!--
 **JoshuaAv07/JoshuaAv07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
