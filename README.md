@@ -1,9 +1,12 @@
 ## Hi there 👋
-Associate Degree/TSU in Cross-platform Software Development.
-
-Currently studying Software Development and Management Engineering at the Technlogical University of Chihuahua BIS.
+Recent graduate from B.S./ING. in Development and Management of Software Engineering at the Technlogical University of Chihuahua BIS.
 
 MITACS GRI 2023 at the University of Sherbrooke, QC.
+
+200s Internship Program at U.S.-Mexico Foundation, Washington D.C.
+
+#### => Data Science Experience with:
+  Python (numpy, scipy, matpotlib, sklearn, seaborn, tensorflow) - R (dyplr, readxl, httr, ggplot2, knitr, stringr) - Power BI
 
 #### => Backend Experience with:
   Node.js - Express.js - Python (flask)
@@ -15,7 +18,10 @@ MITACS GRI 2023 at the University of Sherbrooke, QC.
     MongoDB - ElasticSearch
 
 #### => Frontend experience with:
- HTML -  CSS -  JavaScript -  React
+ HTML -  CSS -  JavaScript -  React - Bootsrap - Tailwind
+
+ #### => IoT experience with:
+ C++ (Arduino) - Python (flask)
  
 #### => Languages:
   Spanish - English - French
