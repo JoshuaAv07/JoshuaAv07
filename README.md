@@ -17,17 +17,17 @@ MITACS GRI 2023 at the University of Sherbrooke, QC.
   + NoSQL:
     MongoDB - ElasticSearch
 
-#### => Frontend experience with:
+#### => Frontend Rxperience with:
  HTML -  CSS -  JavaScript -  React - Bootsrap - Tailwind
 
- #### => IoT experience with:
+#### => IoT Experience with:
  C++ (Arduino) - Python (flask)
  
 #### => Languages:
   Spanish - English - French
   
 #### => Extras:
-  Musician - Love for cooking - Anime watcher - Manga/Novel reader - Love for solving 2D and 3D puzzles
+  Musician - Love for cooking - Anime watcher - Manga/Novel reader - Love for solving 2D and 3D puzzles - Duolingo Slave - LinkedIn Gamer
 
 <!--
 **JoshuaAv07/JoshuaAv07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
